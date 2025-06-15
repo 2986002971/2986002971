@@ -11,7 +11,7 @@
 - ⭐ Exploring innovative projects in neurotechnology and AI
 - ⚡ Fun fact: Brain signals can be translated into digital commands in real-time🧠➡️💻
 
-### 🛠 技术栈 | Tech Stack
+### 🛠 Tech Stack
 
 - 💻 &#160; ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=3776AB)
 ![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust&logoColor=000000)
