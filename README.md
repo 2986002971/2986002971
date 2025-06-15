@@ -2,7 +2,7 @@
 ---
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=2986002971&show_icons=true&theme=radical" alt="112's github stats"/>
 
-### I'm 112
+### I'm Horned_Axe 
 
 - An AI Undergraduate Student passionate about Brain-Computer Interface technology.
 - 🧠 Currently studying at Nankai University and working at ISI Lab in Tianjin, China.
